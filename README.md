@@ -1,2 +1,1 @@
-# pyrometer
-Testes com Prometheus e Flask
+# Testes com Prometheus e Flask
